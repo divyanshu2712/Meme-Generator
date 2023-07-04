@@ -9,7 +9,7 @@ To run the Meme Generator application locally, follow these steps:
 1. Download the source code by cloning the repository:
 
 ```bash
-git clone https://github.com/your-username/meme-generator.git
+git clone https://github.com/divyanshu2712/Meme-Generator.git
 ```
 
 2. Open the `index.html` file in your preferred web browser.
